@@ -1,3 +1,9 @@
 [submodule "SMMU_v2_Driver_ZynqMP"]
 	path = SMMU_v2_Driver_ZynqMP
 	url = git@github.com:NikoSalamini/SMMU_v2_Driver_ZynqMP.git
+[submodule "axi_id_mapper"]
+	path = axi_id_mapper
+	url = git@github.com:NikoSalamini/axi_id_mapper.git
+[submodule "axi_enforcer"]
+	path = axi_enforcer
+	url = git@github.com:NikoSalamini/axi_enforcer.git
