@@ -1,0 +1,3 @@
+[submodule "SMMU_v2_Driver_ZynqMP"]
+	path = SMMU_v2_Driver_ZynqMP
+	url = git@github.com:NikoSalamini/SMMU_v2_Driver_ZynqMP.git
