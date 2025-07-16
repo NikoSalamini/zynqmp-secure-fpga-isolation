@@ -64,7 +64,3 @@ If you use this work in your research, please cite the following paper:
   year={2025},
   organization={IEEE}
 }
-
-
-
-
