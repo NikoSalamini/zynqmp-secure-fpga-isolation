@@ -50,6 +50,8 @@ These components together enable PL IP virtualization on ZynqMP:
 
 This setup is ideal for multi-tenant FPGA systems, security-critical domains, or research platforms exploring hardware-enforced isolation in embedded SoCs.
 
+![Block Design Example](vivado/docs/block_design.png)
+
 ---
 ## Citation
 
